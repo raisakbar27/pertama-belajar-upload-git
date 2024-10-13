@@ -1,0 +1,1 @@
+const detect = (a, b) => a + b;
